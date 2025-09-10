@@ -1,0 +1,151 @@
+ReviewID,ProductID,ProductName,CustomerID,ReviewDate,Rating,ReviewTitle,ReviewComment
+R0001,P007,Smartphone Charger,C025,2024-05-25 17:43:20.275960,2,Average,Terrible experience.
+R0002,P020,External SSD,C095,2025-02-19 17:43:20.275979,1,Poor,Terrible experience.
+R0003,P015,Laptop Stand,C054,2025-04-05 17:43:20.275982,4,Excellent,Not what I expected.
+R0004,P011,Wireless Mouse,C058,2024-11-28 17:43:20.275985,3,Excellent,Works as expected.
+R0005,P008,Laser Printer,C067,2024-12-13 17:43:20.275987,4,Good,Exceeded expectations!
+R0006,P007,Bluetooth Speaker,C046,2024-12-24 17:43:20.275989,4,Poor,Works as expected.
+R0007,P019,Portable Projector,C024,2025-02-05 17:43:20.275992,2,Average,Exceeded expectations!
+R0008,P011,E-reader,C032,2025-02-24 17:43:20.275995,3,Excellent,Not what I expected.
+R0009,P011,External SSD,C047,2024-05-06 17:43:20.276004,4,Average,Not what I expected.
+R0010,P004,VR Headset,C086,2024-07-12 17:43:20.276007,1,Excellent,Terrible experience.
+R0011,P008,Fitness Tracker,C023,2025-03-04 17:43:20.276010,1,Excellent,Works as expected.
+R0012,P003,Fitness Tracker,C066,2024-06-19 17:43:20.276012,5,Excellent,Terrible experience.
+R0013,P002,VR Headset,C027,2024-09-13 17:43:20.276014,3,Poor,Works as expected.
+R0014,P012,Portable Projector,C002,2025-04-01 17:43:20.276016,3,Very Good,Terrible experience.
+R0015,P006,Webcam,C090,2025-04-02 17:43:20.276017,5,Average,It's okay for the price.
+R0016,P002,Gaming Keyboard,C017,2025-03-01 17:43:20.276019,4,Poor,It's okay for the price.
+R0017,P001,HD Monitor,C033,2024-12-27 17:43:20.276021,3,Poor,It's okay for the price.
+R0018,P012,Fitness Tracker,C009,2024-12-19 17:43:20.276023,1,Poor,It's okay for the price.
+R0019,P012,Laptop Stand,C043,2024-08-02 17:43:20.276025,1,Poor,Exceeded expectations!
+R0020,P017,Fitness Tracker,C048,2024-06-13 17:43:20.276027,2,Poor,It's okay for the price.
+R0021,P010,Fitness Tracker,C039,2025-04-04 17:43:20.276029,3,Good,Not what I expected.
+R0022,P016,Fitness Tracker,C093,2024-07-04 17:43:20.276031,4,Average,Not what I expected.
+R0023,P015,Gaming Keyboard,C042,2025-01-06 17:43:20.276033,5,Poor,Exceeded expectations!
+R0024,P015,Gaming Keyboard,C026,2024-05-20 17:43:20.276035,5,Average,It's okay for the price.
+R0025,P019,Laptop Stand,C099,2024-04-23 17:43:20.276037,4,Good,It's okay for the price.
+R0026,P012,Wireless Mouse,C050,2024-07-12 17:43:20.276039,2,Good,It's okay for the price.
+R0027,P020,Wireless Mouse,C025,2024-09-15 17:43:20.276044,5,Average,Terrible experience.
+R0028,P003,Laser Printer,C024,2024-12-26 17:43:20.276046,3,Excellent,Works as expected.
+R0029,P005,Gaming Keyboard,C013,2024-08-31 17:43:20.276048,2,Very Good,Terrible experience.
+R0030,P019,Portable Projector,C060,2024-06-20 17:43:20.276050,3,Excellent,Works as expected.
+R0031,P007,Noise Cancelling Headphones,C007,2024-11-26 17:43:20.276052,1,Excellent,It's okay for the price.
+R0032,P009,USB-C Hub,C057,2025-04-14 17:43:20.276054,2,Excellent,It's okay for the price.
+R0033,P007,Smartwatch,C036,2025-01-26 17:43:20.276056,5,Poor,Terrible experience.
+R0034,P018,Fitness Tracker,C045,2024-04-25 17:43:20.276058,2,Good,Terrible experience.
+R0035,P004,Noise Cancelling Headphones,C020,2024-09-13 17:43:20.276060,2,Excellent,Works as expected.
+R0036,P014,Laptop Stand,C065,2024-10-25 17:43:20.276062,2,Good,Not what I expected.
+R0037,P018,VR Headset,C008,2024-11-26 17:43:20.276063,2,Average,Works as expected.
+R0038,P009,Gaming Keyboard,C016,2025-01-28 17:43:20.276065,3,Very Good,Terrible experience.
+R0039,P002,Noise Cancelling Headphones,C014,2024-12-28 17:43:20.276067,1,Average,Terrible experience.
+R0040,P020,Smartwatch,C076,2024-10-27 17:43:20.276069,4,Average,Exceeded expectations!
+R0041,P015,Action Camera,C087,2025-02-24 17:43:20.276071,2,Poor,Terrible experience.
+R0042,P007,Action Camera,C015,2025-03-01 17:43:20.276073,5,Very Good,Exceeded expectations!
+R0043,P012,Wireless Mouse,C092,2024-10-05 17:43:20.276075,2,Average,Not what I expected.
+R0044,P008,External SSD,C098,2025-02-27 17:43:20.276077,5,Average,Works as expected.
+R0045,P015,Noise Cancelling Headphones,C066,2024-10-16 17:43:20.276078,3,Very Good,Works as expected.
+R0046,P003,Action Camera,C032,2024-10-23 17:43:20.276080,5,Very Good,Exceeded expectations!
+R0047,P014,HD Monitor,C087,2024-06-12 17:43:20.276082,4,Average,Works as expected.
+R0048,P017,VR Headset,C063,2024-12-03 17:43:20.276084,1,Very Good,Terrible experience.
+R0049,P004,USB-C Hub,C086,2025-03-26 17:43:20.276086,5,Average,It's okay for the price.
+R0050,P018,Laser Printer,C051,2024-08-25 17:43:20.276099,5,Average,Exceeded expectations!
+R0051,P008,HD Monitor,C025,2024-07-17 17:43:20.276101,1,Poor,Works as expected.
+R0052,P004,Laser Printer,C058,2025-02-13 17:43:20.276103,4,Excellent,Exceeded expectations!
+R0053,P002,VR Headset,C063,2024-10-06 17:43:20.276105,2,Average,Exceeded expectations!
+R0054,P006,Webcam,C062,2025-03-08 17:43:20.276107,5,Good,It's okay for the price.
+R0055,P010,VR Headset,C022,2024-07-09 17:43:20.276109,1,Excellent,Terrible experience.
+R0056,P004,External SSD,C058,2024-11-18 17:43:20.276111,3,Excellent,Exceeded expectations!
+R0057,P018,Wireless Mouse,C058,2024-05-31 17:43:20.276113,1,Excellent,Works as expected.
+R0058,P012,Smartphone Charger,C086,2024-06-05 17:43:20.276115,3,Poor,Not what I expected.
+R0059,P002,Webcam,C049,2024-10-14 17:43:20.276117,4,Average,Exceeded expectations!
+R0060,P010,Streaming Stick,C052,2024-06-26 17:43:20.276119,2,Poor,Exceeded expectations!
+R0061,P004,Smartphone Charger,C042,2025-01-09 17:43:20.276121,1,Average,It's okay for the price.
+R0062,P014,Wireless Mouse,C070,2024-04-22 17:43:20.276122,5,Poor,Terrible experience.
+R0063,P016,Smartwatch,C015,2025-03-13 17:43:20.276124,4,Poor,Not what I expected.
+R0064,P015,Streaming Stick,C054,2025-03-25 17:43:20.276126,1,Good,Works as expected.
+R0065,P008,Bluetooth Speaker,C060,2024-05-14 17:43:20.276128,5,Poor,Not what I expected.
+R0066,P014,HD Monitor,C097,2024-12-22 17:43:20.276130,1,Very Good,Works as expected.
+R0067,P008,Webcam,C008,2024-11-20 17:43:20.276132,3,Good,Terrible experience.
+R0068,P016,Action Camera,C053,2025-03-08 17:43:20.276134,1,Poor,Works as expected.
+R0069,P013,Action Camera,C060,2024-12-19 17:43:20.276136,1,Excellent,It's okay for the price.
+R0070,P018,VR Headset,C005,2025-02-25 17:43:20.276139,1,Very Good,It's okay for the price.
+R0071,P015,Fitness Tracker,C068,2024-10-05 17:43:20.276141,4,Very Good,It's okay for the price.
+R0072,P013,Gaming Keyboard,C006,2024-11-26 17:43:20.276142,1,Very Good,It's okay for the price.
+R0073,P009,Wireless Mouse,C096,2024-08-28 17:43:20.276144,5,Good,Not what I expected.
+R0074,P015,Action Camera,C094,2024-05-27 17:43:20.276146,3,Poor,Terrible experience.
+R0075,P013,Portable Projector,C047,2024-10-13 17:43:20.276148,3,Poor,Works as expected.
+R0076,P001,Laptop Stand,C099,2025-01-24 17:43:20.276150,1,Excellent,Works as expected.
+R0077,P007,Laptop Stand,C055,2024-10-10 17:43:20.276151,4,Excellent,It's okay for the price.
+R0078,P009,External SSD,C040,2024-10-18 17:43:20.276154,4,Very Good,It's okay for the price.
+R0079,P001,External SSD,C052,2024-12-31 17:43:20.276155,5,Excellent,Exceeded expectations!
+R0080,P012,HD Monitor,C016,2024-05-09 17:43:20.276157,1,Good,Terrible experience.
+R0081,P008,Laser Printer,C013,2024-12-02 17:43:20.276159,3,Poor,Not what I expected.
+R0082,P011,Action Camera,C030,2024-04-23 17:43:20.276161,4,Very Good,Works as expected.
+R0083,P019,Action Camera,C019,2024-05-03 17:43:20.276163,1,Excellent,Exceeded expectations!
+R0084,P017,HD Monitor,C017,2024-05-21 17:43:20.276165,4,Good,Exceeded expectations!
+R0085,P008,VR Headset,C063,2025-03-12 17:43:20.276167,4,Good,Works as expected.
+R0086,P003,Wireless Mouse,C019,2024-06-10 17:43:20.276168,3,Excellent,Not what I expected.
+R0087,P003,VR Headset,C092,2024-05-27 17:43:20.276170,2,Poor,Exceeded expectations!
+R0088,P001,Smartwatch,C058,2025-01-20 17:43:20.276172,5,Excellent,Exceeded expectations!
+R0089,P005,Fitness Tracker,C055,2024-07-18 17:43:20.276174,5,Very Good,Terrible experience.
+R0090,P010,Smartphone Charger,C090,2024-12-13 17:43:20.276176,3,Excellent,Not what I expected.
+R0091,P007,USB-C Hub,C090,2025-01-24 17:43:20.276178,4,Good,Exceeded expectations!
+R0092,P009,Noise Cancelling Headphones,C062,2024-08-24 17:43:20.276180,1,Excellent,Not what I expected.
+R0093,P007,Smartphone Charger,C023,2024-10-05 17:43:20.276181,4,Poor,Works as expected.
+R0094,P009,VR Headset,C009,2024-11-30 17:43:20.276183,3,Average,It's okay for the price.
+R0095,P008,HD Monitor,C012,2024-05-25 17:43:20.276185,5,Excellent,Exceeded expectations!
+R0096,P012,Action Camera,C001,2024-04-30 17:43:20.276187,4,Poor,Terrible experience.
+R0097,P002,HD Monitor,C058,2024-07-06 17:43:20.276189,5,Poor,Works as expected.
+R0098,P001,Streaming Stick,C001,2024-12-26 17:43:20.276191,1,Good,Not what I expected.
+R0099,P016,Mechanical Pencil,C034,2024-05-02 17:43:20.276193,5,Poor,Works as expected.
+R0100,P005,Streaming Stick,C096,2024-11-02 17:43:20.276195,5,Poor,Exceeded expectations!
+R0101,P003,Gaming Keyboard,C048,2025-03-20 17:43:20.276197,2,Poor,Not what I expected.
+R0102,P012,HD Monitor,C089,2024-12-21 17:43:20.276198,2,Poor,It's okay for the price.
+R0103,P008,Action Camera,C001,2025-04-01 17:43:20.276200,2,Very Good,Works as expected.
+R0104,P003,External SSD,C016,2024-11-07 17:43:20.276202,5,Very Good,Exceeded expectations!
+R0105,P001,USB-C Hub,C061,2024-09-24 17:43:20.276204,3,Good,Terrible experience.
+R0106,P003,Wireless Mouse,C064,2024-12-01 17:43:20.276206,5,Excellent,Not what I expected.
+R0107,P005,USB-C Hub,C063,2025-03-15 17:43:20.276208,3,Poor,Works as expected.
+R0108,P015,Wireless Mouse,C069,2024-12-30 17:43:20.276209,3,Excellent,Works as expected.
+R0109,P014,Mechanical Pencil,C022,2024-07-01 17:43:20.276211,2,Excellent,It's okay for the price.
+R0110,P003,Action Camera,C093,2024-11-07 17:43:20.276214,4,Good,It's okay for the price.
+R0111,P001,VR Headset,C067,2024-12-30 17:43:20.276215,1,Poor,Terrible experience.
+R0112,P005,Smartphone Charger,C076,2024-05-17 17:43:20.276217,2,Poor,Terrible experience.
+R0113,P014,Webcam,C026,2024-08-05 17:43:20.276219,2,Average,Exceeded expectations!
+R0114,P007,HD Monitor,C016,2024-09-27 17:43:20.276221,4,Excellent,Exceeded expectations!
+R0115,P009,Fitness Tracker,C051,2024-05-23 17:43:20.276223,1,Excellent,Terrible experience.
+R0116,P015,Wireless Mouse,C086,2024-08-26 17:43:20.276225,5,Very Good,Terrible experience.
+R0117,P015,Action Camera,C057,2025-02-03 17:43:20.276226,5,Average,Not what I expected.
+R0118,P010,Portable Projector,C029,2024-12-03 17:43:20.276228,2,Very Good,It's okay for the price.
+R0119,P013,Laser Printer,C078,2025-02-05 17:43:20.276230,1,Very Good,Exceeded expectations!
+R0120,P019,Mechanical Pencil,C092,2024-12-12 17:43:20.276232,2,Very Good,It's okay for the price.
+R0121,P007,Noise Cancelling Headphones,C069,2024-07-04 17:43:20.276234,3,Good,It's okay for the price.
+R0122,P017,Noise Cancelling Headphones,C047,2024-07-16 17:43:20.276236,2,Good,Terrible experience.
+R0123,P020,Graphics Tablet,C094,2024-12-04 17:43:20.276238,2,Very Good,Not what I expected.
+R0124,P004,Laser Printer,C062,2024-06-22 17:43:20.276239,5,Average,Works as expected.
+R0125,P005,Smartphone Charger,C069,2024-09-10 17:43:20.276241,5,Excellent,Not what I expected.
+R0126,P007,Gaming Keyboard,C076,2024-06-23 17:43:20.276243,5,Average,Not what I expected.
+R0127,P013,Wireless Mouse,C016,2024-09-25 17:43:20.276245,3,Poor,It's okay for the price.
+R0128,P015,E-reader,C090,2024-10-14 17:43:20.276247,5,Good,Not what I expected.
+R0129,P011,Wireless Mouse,C090,2024-12-26 17:43:20.276249,1,Excellent,Exceeded expectations!
+R0130,P004,Laptop Stand,C048,2025-02-06 17:43:20.276251,4,Excellent,It's okay for the price.
+R0131,P013,Action Camera,C085,2024-07-31 17:43:20.276253,1,Poor,Exceeded expectations!
+R0132,P007,Laser Printer,C039,2024-08-08 17:43:20.276255,1,Poor,Works as expected.
+R0133,P019,USB-C Hub,C100,2025-03-02 17:43:20.276256,5,Very Good,It's okay for the price.
+R0134,P002,HD Monitor,C033,2025-03-24 17:43:20.276258,4,Good,Works as expected.
+R0135,P010,Fitness Tracker,C094,2025-02-20 17:43:20.276260,4,Good,It's okay for the price.
+R0136,P013,Fitness Tracker,C023,2025-01-29 17:43:20.276262,4,Average,Terrible experience.
+R0137,P006,Portable Projector,C010,2024-05-31 17:43:20.276264,3,Very Good,Not what I expected.
+R0138,P012,Mechanical Pencil,C069,2025-01-26 17:43:20.276266,5,Very Good,Terrible experience.
+R0139,P012,Noise Cancelling Headphones,C100,2024-05-04 17:43:20.276268,4,Very Good,Works as expected.
+R0140,P020,HD Monitor,C034,2024-09-13 17:43:20.276270,3,Very Good,Not what I expected.
+R0141,P011,External SSD,C052,2024-06-16 17:43:20.276271,2,Good,It's okay for the price.
+R0142,P007,Laptop Stand,C095,2025-03-16 17:43:20.276273,2,Good,Not what I expected.
+R0143,P001,Fitness Tracker,C010,2024-10-02 17:43:20.276275,3,Very Good,Exceeded expectations!
+R0144,P001,Mechanical Pencil,C019,2024-10-04 17:43:20.276277,3,Average,Not what I expected.
+R0145,P020,HD Monitor,C058,2024-06-16 17:43:20.276279,5,Excellent,Exceeded expectations!
+R0146,P013,Wireless Mouse,C096,2024-08-21 17:43:20.276281,5,Excellent,Not what I expected.
+R0147,P009,VR Headset,C001,2024-07-21 17:43:20.276283,2,Average,Exceeded expectations!
+R0148,P003,Wireless Mouse,C069,2024-12-10 17:43:20.276284,4,Very Good,Works as expected.
+R0149,P007,HD Monitor,C004,2024-07-08 17:43:20.276286,2,Good,Terrible experience.
+R0150,P006,Streaming Stick,C016,2025-04-12 17:43:20.276289,4,Excellent,It's okay for the price.
